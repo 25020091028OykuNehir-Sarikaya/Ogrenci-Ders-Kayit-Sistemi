@@ -24,34 +24,21 @@
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" attributes="0">
-              <Component id="jLabel2" min="-2" pref="163" max="-2" attributes="0"/>
-              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="206" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel9" max="32767" attributes="0"/>
                   <Group type="102" attributes="0">
-                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace max="32767" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jLabel9" max="32767" attributes="0"/>
-                          <Group type="102" attributes="0">
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="jLabel11" min="-2" pref="124" max="-2" attributes="0"/>
-                                  <Component id="jLabel10" min="-2" pref="255" max="-2" attributes="0"/>
-                              </Group>
-                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
-                          </Group>
+                          <Component id="jLabel10" min="-2" pref="255" max="-2" attributes="0"/>
+                          <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel11" min="-2" pref="124" max="-2" attributes="0"/>
                       </Group>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                   </Group>
               </Group>
           </Group>
           <Group type="102" attributes="0">
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
-                      <Component id="jLabel1" min="-2" pref="232" max="-2" attributes="0"/>
-                  </Group>
                   <Group type="102" alignment="0" attributes="0">
                       <EmptySpace min="-2" pref="48" max="-2" attributes="0"/>
                       <Component id="jLabel4" min="-2" pref="88" max="-2" attributes="0"/>
@@ -67,6 +54,13 @@
                       <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <Component id="jScrollPane2" alignment="0" min="-2" pref="709" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel2" min="-2" pref="163" max="-2" attributes="0"/>
+                          <Component id="jLabel1" min="-2" pref="232" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
               </Group>
               <EmptySpace pref="315" max="32767" attributes="0"/>
           </Group>
@@ -174,7 +168,7 @@
                   <Data value="YABANCI D&#x130;L II"/>
                   <Data value="MATEMAT&#x130;K II"/>
                   <Data value="SATRAN&#xc7;"/>
-                  <Data value="iLET&#x130;&#x15e;&#x130;M VE SUNUM TEKN&#x130;KLER&#x130;"/>
+                  <Data value="&#x130;LET&#x130;&#x15e;&#x130;M VE SUNUM TEKN&#x130;KLER&#x130;"/>
                   <Data value="T&#xdc;RK D&#x130;L&#x130; II"/>
                   <Data value="YAPAY ZEKA TEKNOLOJ&#x130;LER&#x130; VE ET&#x130;K"/>
                   <Data value="ALGOR&#x130;TMA VE PROGRAMLAMAYA G&#x130;R&#x130;&#x15e; II"/>
